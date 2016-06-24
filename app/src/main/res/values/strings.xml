@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaterialDesignWidgetDemo</string>
+    <string name="cardTitle_thailand">Thailand</string>
+    <string name="cardTitle_holland">Holland</string>
+    <string name="cardTitle_hongkong">HongKong</string>
+    <string name="photo_desc">Photo</string>
+    <string name="thailand_desc">Thailand is a country at the centre of the Indochinese peninsula in Mainland Southeast Asia. It is bordered to the north by Myanmar and Laos, to the east by Laos and Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the west by the Andaman Sea and the southern extremity of Myanmar. Its maritime boundaries include Vietnam in the Gulf of Thailand to the southeast, and Indonesia and India on the Andaman Sea to the southwest.</string>
+    <string name="holland_desc">Holland is a region and former province on the western coast of the Netherlands. The name Holland is also frequently used to informally refer to the whole of the country of the Netherlands.This usage is commonly accepted in other countries, and not entirely uncommon among the Dutch themselves, though some in the Netherlands and particularly in other regions of the country may find it undesirable,misleading or insulting.</string>
+    <string name="alps_desc">The Alps are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 kilometres (750 mi) across eight Alpine countries: Austria, France, Germany, Italy, Liechtenstein, Monaco, Slovenia, and Switzerland.The Caucasus Mountains are higher, and the Urals longer, but both lie partly in Asia.</string>
+    <string name="empty_desc"></string>
+    <string name="cardTitle_alps">Alps</string>
+</resources>

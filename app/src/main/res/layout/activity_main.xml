@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+
+        android:orientation="vertical">
+
+        <com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout
+            style="@style/Card">
+            <ImageView
+                style="@style/Card_Photo"
+                android:id="@+id/photo"
+                android:transitionName="photo1"
+                android:src="@drawable/thailand"/>
+
+            <TextView
+                style="@style/CardTitle"
+                android:id="@+id/show_photo_1"
+                android:text="@string/cardTitle_thailand"/>
+
+        </com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout>
+
+        <com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout
+            style="@style/Card">
+            <ImageView
+                style="@style/Card_Photo"
+                android:id="@id/photo"
+                android:transitionName="photo1"
+                android:src="@drawable/holland"/>
+
+            <TextView
+                style="@style/CardTitle"
+                android:id="@+id/show_photo_2"
+                android:text="@string/cardTitle_holland"/>
+
+        </com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout>
+
+        <com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout
+            style="@style/Card">
+            <ImageView
+                style="@style/Card_Photo"
+                android:id="@id/photo"
+                android:transitionName="photo1"
+                android:src="@drawable/hongkong"/>
+
+            <TextView
+                style="@style/CardTitle"
+                android:id="@+id/show_photo_3"
+                android:text="@string/cardTitle_hongkong"/>
+
+        </com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout>
+
+        <com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout
+            style="@style/Card">
+            <ImageView
+                style="@style/Card_Photo"
+                android:id="@id/photo"
+                android:transitionName="photo1"
+                android:src="@drawable/alps"/>
+
+            <TextView
+                style="@style/CardTitle"
+                android:id="@+id/show_photo_4"
+                android:text="@string/cardTitle_alps"/>
+
+        </com.cbok.materialdesignwidgetdemo.ui.CardFrameLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
