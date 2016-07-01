@@ -5,6 +5,8 @@ MDTD is a sample application for the new Material Design APIs introduced in the 
 *Dynamic palette*<br/>
 *Circular reveal*<br/>
 *Activity transitions*<br/>
-And a few other things such as colored status and navigation bars, path tracing, etc.<br/><br/>
+And a few other things such as colored status and navigation bars, path tracing, etc.<br/><br/><br/>
 ![image](https://github.com/HopeSeebok/MaterialDesignTravelingDemo/blob/master/hana.png)<br/><br/>
-![image](https://github.com/HopeSeebok/MaterialDesignTravelingDemo/blob/master/dul.png)
+![image](https://github.com/HopeSeebok/MaterialDesignTravelingDemo/blob/master/dul.png)<br/><br/>
+#Library licenses<br/>
+<b>android-support-v7-palette<b/>
